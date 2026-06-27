@@ -67,6 +67,7 @@
   <a href="https://www.linkedin.com/in/aditya-ramadhani-putra-pratama-588824332/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/ditszzgrizz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:adityaramadhanikita.x13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Discord-ditszy03-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 <br>
