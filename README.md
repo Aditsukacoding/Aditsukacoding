@@ -33,9 +33,9 @@
 
 ## 🛠️ Tech Stack
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,docker,figma" alt="tech stack" height="60" />
-</marquee>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditsukacoding/Aditsukacoding/main/assets/tech-stack.svg" alt="tech stack scrolling" />
+</p>
 
 <br>
 
