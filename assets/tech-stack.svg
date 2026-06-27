@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="60" viewBox="0 0 700 60">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="700" height="60" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <g>
+    <image href="https://skillicons.dev/icons?i=html" x="0" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=css" x="78" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=js" x="156" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=ts" x="234" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=react" x="312" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=nextjs" x="390" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=tailwind" x="468" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=nodejs" x="546" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=express" x="624" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=mongodb" x="702" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=postgres" x="780" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=git" x="858" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=docker" x="936" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=figma" x="1014" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=html" x="1092" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=css" x="1170" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=js" x="1248" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=ts" x="1326" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=react" x="1404" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=nextjs" x="1482" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=tailwind" x="1560" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=nodejs" x="1638" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=express" x="1716" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=mongodb" x="1794" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=postgres" x="1872" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=git" x="1950" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=docker" x="2028" y="6.0" width="48" height="48" />
+    <image href="https://skillicons.dev/icons?i=figma" x="2106" y="6.0" width="48" height="48" />
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1092 0" dur="16s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>
